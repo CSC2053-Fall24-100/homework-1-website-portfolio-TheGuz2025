@@ -9,13 +9,14 @@ function loadNavbar() {
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.html">Home</a>
+                        <a class="nav-link" href = "../views/index.html"</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="schedule.html">Schedule</a>
+                        <a class="nav-link" href = "../views/schedule.html"</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="hobbies.html">Hobbies</a>
+                        <a class="nav-link" href = "../views/hobbies.html"</a>]
+                        href = "../views/schedule.html"
                     </li>
                 </ul>
             </div>
